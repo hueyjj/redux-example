@@ -13,6 +13,7 @@ button {
   margin: 10px;
   user-select: none;
   outline: none;
+  cursor: pointer;
 }
 
 button:hover {
