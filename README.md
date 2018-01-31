@@ -13,7 +13,11 @@ npm install
 npm start
 ```
 
-There should be some number and two buttons which as a whole represents a counter.
+If a page doesn't not automatically open up in your default web browser, try to manually navigate to the page.
+- Open a web browser
+- Enter localhost:3000 into your address field
+
+There should be some number and two buttons which as a whole represents a counter that'll show up.
 
 ![counter](https://raw.githubusercontent.com/hueyjj/redux-example/master/screenshots/counter.PNG)
 
